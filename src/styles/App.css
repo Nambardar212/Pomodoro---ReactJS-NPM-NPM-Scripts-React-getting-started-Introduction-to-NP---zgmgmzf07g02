@@ -10,3 +10,7 @@ button{
     justify-content: center;
     align-items: center;
 }
+
+#main {
+    text-align: center;
+}
